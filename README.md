@@ -1,12 +1,14 @@
 # 📱 KelolaSaku — Catat & Kelola Keuangan di Saku Anda
 
 [![Download Android](https://img.shields.io/badge/Download-Android%20%28APK%29-green?style=for-the-badge&logo=android)](https://github.com/username/kelolasaku/releases)
-[![Download iOS](https://img.shields.io/badge/Download-iOS%20%28TestFlight%29-blue?style=for-the-badge&logo=apple)](https://github.com/username/kelolasaku/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android%20Only-success?style=for-the-badge&logo=android)](https://github.com/username/kelolasaku/releases)
 [![Version](https://img.shields.io/badge/Versi-1.0.0-orange?style=for-the-badge)](https://github.com/username/kelolasaku/releases)
 
 Apakah Anda sering bingung ke mana perginya uang Anda di akhir bulan? Atau sering lupa membayar tagihan bulanan hingga kena denda? 
 
 **KelolaSaku** hadir sebagai solusi praktis untuk mencatat, melacak, dan mengelola keuangan pribadi Anda langsung dari handphone. Dengan tampilan yang bersih, modern, dan mudah digunakan, KelolaSaku membantu Anda mencapai kebebasan finansial tanpa ribet!
+
+> ⚠️ **Catatan:** Saat ini, aplikasi KelolaSaku baru tersedia secara eksklusif untuk perangkat dengan sistem operasi **Android**. Dukungan untuk platform lain sedang dalam tahap perencanaan.
 
 ---
 
@@ -42,19 +44,13 @@ Atur dan pantau saldo di berbagai tempat penyimpanan dana Anda:
 
 ---
 
-## 📲 Cara Mengunduh & Memasang Aplikasi
+## 📲 Cara Mengunduh & Memasang Aplikasi (Khusus Android)
 
-### 🤖 Untuk Pengguna Android (APK)
 1.  Klik tombol **[Download Android (APK)](https://github.com/username/kelolasaku/releases)** di atas (atau buka bagian *Releases* di halaman GitHub ini).
 2.  Unduh file `kelolasaku-v1.0.0.apk`.
-3.  Buka file yang telah diunduh, lalu izinkan pemasangan aplikasi dari sumber tidak dikenal (*Allow installation from unknown sources*) jika diminta oleh sistem Android Anda.
-4.  Ketuk **Install** dan tunggu hingga selesai.
-
-### 🍏 Untuk Pengguna iOS (iPhone)
-*Saat ini aplikasi sedang dalam tahap uji coba TestFlight.*
-1.  Unduh aplikasi **TestFlight** di App Store.
-2.  Klik tombol **[Download iOS (TestFlight)](https://github.com/username/kelolasaku/releases)** di atas untuk bergabung ke program uji coba.
-3.  Ketuk **Accept** lalu **Install** di dalam aplikasi TestFlight.
+3.  Buka file yang telah diunduh di perangkat Android Anda.
+4.  Jika muncul peringatan keamanan, aktifkan izin untuk memasang aplikasi dari sumber tidak dikenal (*Allow installation from unknown sources*) di pengaturan browser atau file manager Anda.
+5.  Ketuk **Install** dan tunggu hingga proses pemasangan selesai.
 
 ---
 
