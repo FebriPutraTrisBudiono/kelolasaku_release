@@ -15,7 +15,7 @@ Apakah Anda sering bingung ke mana perginya uang Anda di akhir bulan? Atau serin
 ## 🌟 Mengapa Memilih KelolaSaku?
 
 *   **Pemisahan Uang yang Jelas (Kantong Mandiri):** Anda bisa membagi saldo Anda ke dalam kantong-kantong virtual seperti *Uang Tunai (Cash)*, *Bank (BCA, Mandiri)*, hingga *Dompet Digital (GoPay, OVO)*. Tidak ada lagi uang jajan yang tidak sengaja terpakai untuk bayar kos!
-*   **Pengingat Tagihan Otomatis:** Catat semua tagihan bulanan Anda (Listrik, Netflix, WiFi, dll.). KelolaSaku akan mengingatkan Anda sebelum jatuh tempo agar terhindar dari denda.
+*   **Pengingat Tagihan :** Catat semua tagihan bulanan Anda (Listrik, Netflix, WiFi, dll.). KelolaSaku akan mengingatkan Anda sebelum jatuh tempo agar terhindar dari denda.
 *   **Analisis Visual yang Cantik:** Lihat tren pengeluaran Anda lewat grafik interaktif yang mudah dipahami. Cari tahu dalam sekejap kategori apa yang paling banyak memakan anggaran Anda.
 *   **Data Aman & Selalu Sinkron:** Data Anda disimpan dengan aman secara online. Jika Anda berganti handphone, Anda cukup masuk kembali ke akun Anda dan semua catatan Anda akan langsung kembali.
 *   **Mode Gelap (Dark Mode):** Nyaman di mata saat Anda mencatat pengeluaran di malam hari sebelum tidur.
