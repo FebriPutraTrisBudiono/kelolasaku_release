@@ -68,7 +68,7 @@ Setelah berhasil memasang aplikasi, ikuti 3 langkah mudah ini untuk memulai:
 
 Jika Anda memiliki pertanyaan, saran, atau menemukan kendala (bug) saat menggunakan aplikasi KelolaSaku, jangan ragu untuk menghubungi kami melalui:
 
-*   📧 **Email:** support@kelolasaku.id
+*   📧 **Email:** febript@gmail.com
 *   🐛 **Laporkan Masalah:** Buka menu [Issues](https://github.com/username/kelolasaku/issues) di halaman GitHub ini untuk mengirimkan laporan kendala secara langsung.
 
 *Catatan: KelolaSaku berkomitmen untuk menjaga privasi data keuangan Anda secara penuh. Kami tidak membagikan data transaksi Anda kepada pihak ketiga manapun.*
