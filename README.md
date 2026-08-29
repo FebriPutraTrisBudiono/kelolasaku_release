@@ -47,10 +47,11 @@ Atur dan pantau saldo di berbagai tempat penyimpanan dana Anda:
 ## 📲 Cara Mengunduh & Memasang Aplikasi (Khusus Android)
 
 1.  Klik tombol **[Download Android (APK)](https://github.com/FebriPutraTrisBudiono/kelolasaku_release/tree/main/Releases)** di atas (atau buka bagian *Releases* di halaman GitHub ini).
-2.  Unduh file `kelolasaku-v1.0.0.apk`.
-3.  Buka file yang telah diunduh di perangkat Android Anda.
-4.  Jika muncul peringatan keamanan, aktifkan izin untuk memasang aplikasi dari sumber tidak dikenal (*Allow installation from unknown sources*) di pengaturan browser atau file manager Anda.
-5.  Ketuk **Install** dan tunggu hingga proses pemasangan selesai.
+2.  Pilih file kelolasaku-v1.0.0.apk. Pada halaman file APK, ketuk View raw.
+3.  Jika APK langsung mulai terunduh, tunggu hingga selesai. Jika tidak, ketuk ikon ⋯ (tiga titik) di pojok kanan atas, lalu pilih Download.
+4.  Buka file yang telah diunduh di perangkat Android Anda.
+5.  Jika muncul peringatan keamanan, aktifkan izin untuk memasang aplikasi dari sumber tidak dikenal (*Allow installation from unknown sources*) di pengaturan browser atau file manager Anda.
+6.  Ketuk **Install** dan tunggu hingga proses pemasangan selesai.
 
 ---
 
