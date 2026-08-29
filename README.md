@@ -46,7 +46,7 @@ Atur dan pantau saldo di berbagai tempat penyimpanan dana Anda:
 
 ## 📲 Cara Mengunduh & Memasang Aplikasi (Khusus Android)
 
-1.  Klik tombol **[Download Android (APK)](https://github.com/username/kelolasaku/releases)** di atas (atau buka bagian *Releases* di halaman GitHub ini).
+1.  Klik tombol **[Download Android (APK)](https://github.com/FebriPutraTrisBudiono/kelolasaku_release/tree/main/Releases)** di atas (atau buka bagian *Releases* di halaman GitHub ini).
 2.  Unduh file `kelolasaku-v1.0.0.apk`.
 3.  Buka file yang telah diunduh di perangkat Android Anda.
 4.  Jika muncul peringatan keamanan, aktifkan izin untuk memasang aplikasi dari sumber tidak dikenal (*Allow installation from unknown sources*) di pengaturan browser atau file manager Anda.
@@ -69,6 +69,6 @@ Setelah berhasil memasang aplikasi, ikuti 3 langkah mudah ini untuk memulai:
 Jika Anda memiliki pertanyaan, saran, atau menemukan kendala (bug) saat menggunakan aplikasi KelolaSaku, jangan ragu untuk menghubungi kami melalui:
 
 *   📧 **Email:** febript@gmail.com
-*   🐛 **Laporkan Masalah:** Buka menu [Issues](https://github.com/username/kelolasaku/issues) di halaman GitHub ini untuk mengirimkan laporan kendala secara langsung.
+*   🐛 **Laporkan Masalah:** Buka menu [Issues](https://github.com/FebriPutraTrisBudiono/kelolasaku/issues) di halaman GitHub ini untuk mengirimkan laporan kendala secara langsung.
 
 *Catatan: KelolaSaku berkomitmen untuk menjaga privasi data keuangan Anda secara penuh. Kami tidak membagikan data transaksi Anda kepada pihak ketiga manapun.*
